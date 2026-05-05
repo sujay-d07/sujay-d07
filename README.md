@@ -1,4 +1,6 @@
-## Hi there 👋
+trying to be the cool tech guy 
+
+always loved the grind and always will love it.
 
 <!--
 **sujay-d07/sujay-d07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
